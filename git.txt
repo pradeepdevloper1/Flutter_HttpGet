@@ -1,0 +1,7 @@
+echo "# Flutter_HttpGet" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin32 https://github.com/pradeepdevloper1/Flutter_HttpGet.git
+git push -u origin32 main
